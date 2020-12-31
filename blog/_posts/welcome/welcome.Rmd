@@ -1,0 +1,30 @@
+---
+title: "Bienvenido"
+description: |
+  Welcome to our new blog, Yhon Tiahuallpa. We hope you enjoy 
+author:
+  - name: Yhon Tiahuallpa
+    url: https://example.com/norajones
+    affiliation: Spacely Sprockets
+    affiliation_url: https://example.com/spacelysprokets
+date:  May 4, 2018
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+
+# PAra crear una nueva publicacion usa
+library(distill)
+create_post("Nombre")
+
+```
+
+Este es un ejemplo
+

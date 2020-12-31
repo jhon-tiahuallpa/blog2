@@ -1,0 +1,36 @@
+[
+  {
+    "path": "posts/2020-12-31-tema-diferente/",
+    "title": "Tema Diferente",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Yhon Tiahuallpa",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2020-12-31",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2020-12-31T00:47:54+00:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Bienvenido",
+    "description": "Welcome to our new blog, Yhon Tiahuallpa. We hope you enjoy",
+    "author": [
+      {
+        "name": "Yhon Tiahuallpa",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2018-05-04",
+    "categories": [],
+    "contents": "\nEste es un ejemplo\n\n\n\n",
+    "preview": {},
+    "last_modified": "2020-12-31T00:54:12+00:00",
+    "input_file": {}
+  }
+]
