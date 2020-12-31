@@ -9,7 +9,9 @@ navbar:
     - text: "Inicio"
       href: index.html
     - text: "Sobre mi"
-      href: about.html
+      href: about_postcard.html
+    - text: "Sobre mi Default"
+      href: about_default.html
 output: distill::distill_article
   
   

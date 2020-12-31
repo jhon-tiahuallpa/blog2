@@ -24,6 +24,10 @@ knitr::opts_chunk$set(echo = FALSE)
 library(distill)
 create_post("Nombre")
 
+library(rmarkdown)
+
+render_site()
+file.create(".nojekyll")
 ```
 
 Este es un ejemplo

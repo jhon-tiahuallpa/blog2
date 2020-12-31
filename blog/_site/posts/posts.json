@@ -1,7 +1,7 @@
 [
   {
-    "path": "posts/2020-12-31-tema-diferente/",
-    "title": "Tema Diferente",
+    "path": "posts/2020-12-31-nombre/",
+    "title": "Nombre",
     "description": "A short description of the post.",
     "author": [
       {
@@ -13,8 +13,8 @@
     "categories": [],
     "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
     "preview": {},
-    "last_modified": "2020-12-31T00:47:54+00:00",
-    "input_file": {}
+    "last_modified": "2020-12-31T01:20:01+00:00",
+    "input_file": "nombre.utf8.md"
   },
   {
     "path": "posts/welcome/",
